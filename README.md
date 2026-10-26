@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-3CX is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.3cx.com/
+3CX provides a unified communications solution offering a software‑based IP PBX, video conferencing, live chat, and AI‑enhanced features such as an AI Receptionist and call transcription. The platform serves businesses of all sizes, enabling on‑premises, cloud, or hybrid deployments with robust call‑center reporting and integration capabilities.
+
+**Areas:** Company · Communications · VoIP · AI · Unified Communications
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.3cx.com/)
+- [Documentation](https://www.3cx.com/docs/)
+- [Getting started](https://www.3cx.com/docs/manual/create-extensions/)
+- [Pricing](https://www.3cx.com/pricing/)
+- [Sign up](https://www.3cx.com/blog/news/register-on-forum/)
+- [Support](https://www.3cx.com/contact/)
+- [Changelog](https://www.3cx.com/blog/releases/v18-u8/)
+- [Blog](https://www.3cx.com/blog/)
+- [GitHub](https://github.com/3cx)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/3cx/](https://apis.io/providers/3cx/).
